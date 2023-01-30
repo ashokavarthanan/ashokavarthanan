@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashokavarthanan
-- 👀 I’m interested in Programing... Web.(PHP,MySql,Html,Javascript,CSS) Framwork(Laravel, Codeigniter, Slim And More..) , Mobile.(Java, Dart [Flutter] also 'Java'), Windows.(C#); 
+- 👀 I’m interested in Programing... Web.(PHP ,MySQL ,Html ,JavaScript ,CSS) Framework (Laravel, CodeIgniter, Slim And More..) , Mobile.(Java, Dart [Flutter] also 'Java'), Windows.(C#);
 - 🌱 I’m currently Building CNC Machines (Using Opensource Arduino/ESP32 GRBL Controller);
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ashokavarthanan@gmail.com 
